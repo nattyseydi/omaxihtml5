@@ -1,0 +1,114 @@
+/**
+ * @file
+ * Layout Styling (DIV Positioning)
+ *
+ * Define CSS classes to create and customize Omaxi Style
+ *
+ * 
+ */
+
+/**
+*top
+*/
+
+#headertop {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.85);;
+	border-radius:10px 10px 10px 10px;
+	color: #C7BAB4;
+	font-size:66px;
+	height:80px;
+	text-align:center;	
+	width:100%;
+	-moz-border-radius:10px 10px 10px 10px;
+	
+}
+
+.rgba #headertop {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.85);
+	
+}
+
+/**
+*main-content
+*/
+ 
+body {
+	background: url("images/bgintro.jpg") no-repeat fixed 50% 0 #FFFFFF;
+}
+#main-content {
+	/*background: url("images/bgintro.jpg") no-repeat fixed 50% 0 #FFFFFF;*/
+	width:100%;
+	font-family:Arial;
+	height:100%;
+	margin-top:80px;
+}
+
+/**
+*intro
+*/
+
+#textintro{
+	color:#411404;
+}
+
+#textter{
+	color:#411404;
+}
+
+/**
+*logoomaxi
+*/
+
+#logomaxi{
+	color:#411404;
+	margin-top:20px;
+	margin-bottom:20px
+}
+
+#logomaxi img{
+	display:block;	
+	margin: 0 auto;
+}
+
+#socialnetwork {
+	padding-top:15px;
+	
+}
+
+
+
+/*#icone img {
+	display:block;	
+	margin: 0 auto;
+	
+}*/
+
+
+article, aside, hgroup {
+	display:block;
+}
+
+#footerbottom {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.85);
+	color: #C7BAB4;
+	margin-top: 80px;
+	height:55px;
+	text-align:center;
+	font-size:14px;
+	width:100%;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+}
+
+.rgba #footerbottom {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.85);
+	color: #C7BAB4;
+	margin-top: 20px;
+	height:45px;
+}
+
+#footerbottom img{
+	
+}
+
+
